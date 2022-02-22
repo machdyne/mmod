@@ -24,7 +24,9 @@ This repo contains specifications, pinouts, footprints and schematics.
 ## Dimensions
 
 Width: 16.5mm (parallel with header)
+
 Length: 12.5mm max (perpendicular to header)
+
 Height: 8mm max (top of header to top of bottom-side components)
 
 ## MMOD Board Requirements
