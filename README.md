@@ -6,7 +6,7 @@ MMOD is a 3.3V SPI memory module used in Lone Dynamics computers in order to all
 
 ![MMOD](https://github.com/machdyne/mmod/blob/7bfb2f9bef0166ed6ebf4ede923fc044ab3f9810/mmod.png)
 
-MMOD modules are compatible with Pmod&trade; Interface Type 2 (SPI) and can be used in 6 or 12 pin Pmod&trade; sockets (with the top-side components facing up), but Pmod modules are not necessarily compatible with MMOD sockets due to differences in size and requirements.
+MMOD modules are compatible with Pmod&trade; Interface Type 2 (SPI) and can be used in 6 or 12 pin Pmod&trade; sockets, but Pmod modules are not necessarily compatible with MMOD sockets due to differences in size and requirements.
 
 This repo contains specifications, pinouts, footprints and schematics.
 
