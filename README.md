@@ -8,7 +8,7 @@ MMOD is a 3.3V SPI memory module used in Lone Dynamics computers in order to all
 
 MMOD modules are compatible with Pmod&trade; Interface Type 2 (SPI) and can be used in 6 or 12 pin Pmod&trade; sockets, but Pmod modules are not necessarily compatible with MMOD sockets due to differences in size and requirements.
 
-This repo contains specifications, pinouts, footprints and schematics.
+This repo contains specifications, pinouts, footprints, schematics and PCB layouts.
 
 ## Pinout
 
@@ -38,3 +38,11 @@ Height: 8mm max (top of header to top of bottom-side components)
 - SPI SS should be pulled high with a 10K resistor.
 - SPI MOSI, MISO and SCK should have no pull-up/down resistors.
 - The module must not draw more than 50mA current at any time.
+
+## License
+
+The contents of this repo are released under the Lone Dynamics Open License with the following exceptions:
+
+- The KiCad design files contain parts of the [kicad-pmod](https://github.com/mithro/kicad-pmod) library which is released under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
+
+Note: You can use these designs for commercial purposes but we ask that instead of producing exact clones, that you either replace our trademarks and logos with your own or add your own next to ours.
