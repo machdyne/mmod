@@ -41,7 +41,7 @@ Height: 8mm max (top of header to top of bottom-side components)
 
 ## License
 
-The contents of this repo are released under the Lone Dynamics Open License with the following exceptions:
+The contents of this repo are released under the [Lone Dynamics Open License](LICENSE.md) with the following exceptions:
 
 - The KiCad design files contain parts of the [kicad-pmod](https://github.com/mithro/kicad-pmod) library which is released under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
 
