@@ -39,6 +39,13 @@ Height: 8mm max (top of header to top of bottom-side components)
 - SPI MOSI, MISO and SCK should have no pull-up/down resistors.
 - The module must not draw more than 50mA current at any time.
 
+## MMOD-D (Type-D) Additional Requirements
+
+MMOD-D is a special type of MMOD containing two SPI devices, the requirements are the same as MMOD but with the following differences:
+
+- The SPI bus is expected to be dedicated to the MMOD.
+- The module may interfere with the SPI bus regardless of the state of SS.
+
 ## License
 
 The contents of this repo are released under the [Lone Dynamics Open License](LICENSE.md) with the following exceptions:
