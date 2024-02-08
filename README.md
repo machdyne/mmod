@@ -10,6 +10,8 @@ MMOD modules are compatible with Pmod&trade; Interface Type 2 (SPI) and can be u
 
 This repo contains specifications, pinouts, footprints, schematics and PCB layouts.
 
+Find more information on the [MMOD product page](https://machdyne.com/product/mmod/).
+
 ## Pinout
 
 | Pin | Signal |
