@@ -2,7 +2,7 @@
 
 ## Overview
 
-MMOD is a 3.3V SPI memory module used in Lone Dynamics computers in order to allow for user-replaceable and user-upgradeable memory. The module is inserted into the MMOD socket with the top-side components facing the host board.
+MMOD is a 3.3V SPI memory module used in Machdyne / Lone Dynamics computers in order to allow for user-replaceable and user-upgradeable memory. The module is inserted into the MMOD socket with the top-side components facing the host board.
 
 ![MMOD](https://github.com/machdyne/mmod/blob/7bfb2f9bef0166ed6ebf4ede923fc044ab3f9810/mmod.png)
 
